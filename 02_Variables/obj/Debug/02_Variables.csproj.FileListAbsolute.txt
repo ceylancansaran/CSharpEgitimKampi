@@ -1,7 +1,0 @@
-C:\Users\Ceylan\source\repos\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
-C:\Users\Ceylan\source\repos\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
-C:\Users\Ceylan\source\repos\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
-C:\Users\Ceylan\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
-C:\Users\Ceylan\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
-C:\Users\Ceylan\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
-C:\Users\Ceylan\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb
